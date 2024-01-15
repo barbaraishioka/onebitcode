@@ -1,4 +1,4 @@
-# We Care
+# PetLife
 
 Projeto simples para treinar HTML, CSS e Javascript.
 
